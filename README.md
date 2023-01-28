@@ -6,8 +6,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100075460898489)](https://www.facebook.com/profile.php?id=100075460898489)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-8a2be2?style=flat-square&labelColor=8a2be2&logo=Webflow&colorColor=white&link=https://selimdawa.wixsite.com/portfolio)](https://selimdawa.wixsite.com/portfolio)
 [![Resume Badge](https://img.shields.io/badge/-Resume-626798?style=flat-square&labelColor=626798&logo=Adobe+Acrobat+Reader&logoColor=white&link=https://drive.google.com/file/d/1efgrBmU8S4SB5jIzDRbB8TWZoxWsNWhv/view)](https://drive.google.com/file/d/1efgrBmU8S4SB5jIzDRbB8TWZoxWsNWhv/view)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=selimdawa)
-![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fselimdawa%2F)
 
 <h3> 👨‍💻&nbsp;About Me </h3>
 
