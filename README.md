@@ -9,14 +9,14 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=selimdawa)
 ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fselimdawa%2F)
 
-<h3> 👨‍💻 &nbsp; About Me </h3>
+<h3> 👨‍💻&nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I studied programming from YouTube & [Gammal Tech](https://www.gammal.tech).
 - 💼 &nbsp; I'm looking for a job (remote, voluntary, full or part time).
 - 🌱 &nbsp; Learn more about Hilt, Dagger2, Rome, Firebase & Jetpack.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠&nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -41,7 +41,7 @@
   ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   
-<h3> 📊 &nbsp; Statistics</h3>
+<h3> 📊&nbsp;Statistics</h3>
 
 <p align="center">
 <a href="https://github.com/selimdawa">
@@ -50,7 +50,7 @@
 </a>
 </p>
 
-<h3> ⚙️ &nbsp; I am currently working on</h3>
+<h3> ⚙️&nbsp;I'm currently working on</h3>
 
 <p align="center">
 <a href="https://github.com/selimdawa">
