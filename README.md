@@ -54,12 +54,12 @@
 
 <p align="center">
 <a href="https://github.com/selimdawa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin?username=selimdawa&repo=SimpleAdvancedAppsKotlin&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin?username=selimdawa&repo=BeautyTouchKotlin&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin?username=selimdawa&repo=SimpleAdvancedAppsKotlin&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin?username=selimdawa&repo=BeautyTouchKotlin&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/selimdawa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/pin?username=selimdawa&repo=Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/pin?username=selimdawa&repo=LittleBooksKotlin&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin?username=selimdawa&repo=Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
+ <img height="120em" src="https://github-readme-stats.vercel.app/api/pin?username=selimdawa&repo=LittleBooksKotlin&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
 </a>
 </p>
