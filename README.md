@@ -44,8 +44,10 @@
 <p align="center">
 <a href="https://github.com/selimdawa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=selimdawa&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/selimdawa/github-readme-stats#gh-dark-mode-only" />
+  </a>
+<a href="https://github.com/selimdawa?tab=repositories">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimdawa&theme=buefy&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-</a>
+  </a>
 </p>
 
 <h3> ⚙️&nbsp;I'm currently working on</h3>
