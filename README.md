@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/selim-dawa-57036b199)](https://www.linkedin.com/in/selim-dawa-57036b199)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/selimdawa)](https://www.github.com/selimdawa)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100075460898489)](https://www.facebook.com/profile.php?id=100075460898489)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-8a2be2?style=flat-square&labelColor=8a2be2&logo=Webflow&colorColor=white&link=https://github.com/selimdawa/portfolio)](https://github.com/selimdawa/portfolio)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-8a2be2?style=flat-square&labelColor=8a2be2&logo=Webflow&colorColor=white&link=https://selimdawa.github.io/portfolio)](https://selimdawa.github.io/portfolio)
 [![Resume Badge](https://img.shields.io/badge/-Resume-626798?style=flat-square&labelColor=626798&logo=Adobe+Acrobat+Reader&logoColor=white&link=https://drive.google.com/file/d/1efgrBmU8S4SB5jIzDRbB8TWZoxWsNWhv/view)](https://drive.google.com/file/d/1efgrBmU8S4SB5jIzDRbB8TWZoxWsNWhv/view)
 
 <h3> 👨‍💻&nbsp;About Me </h3>
