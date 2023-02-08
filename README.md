@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100075460898489)](https://www.facebook.com/profile.php?id=100075460898489)
 [![Google Play Badge](https://img.shields.io/badge/-Google%20Play-1d8c32?style=flat-square&labelColor=1d8c32&logo=Google+Play&logoColor=white&linkhttps://play.google.com/store/apps/developer?id=SAO+Apps)](https://play.google.com/store/apps/developer?id=SAO+Apps)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-8a2be2?style=flat-square&labelColor=8a2be2&logo=Webflow&colorColor=white&link=https://selimdawa.github.io/portfolio)](https://selimdawa.github.io/portfolio)
-[![Resume Badge](https://img.shields.io/badge/-Resume-d16500?style=flat-square&labelColor=d16500&logo=Adobe+Acrobat+Reader&logoColor=white&link=https://drive.google.com/file/d/1efgrBmU8S4SB5jIzDRbB8TWZoxWsNWhv/view)](https://drive.google.com/file/d/1efgrBmU8S4SB5jIzDRbB8TWZoxWsNWhv/view)
+[![Resume Badge](https://img.shields.io/badge/-Resume-d16500?style=flat-square&labelColor=d16500&logo=Adobe+Acrobat+Reader&logoColor=white&link=https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)](https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)
 
 <h3> 👨‍💻&nbsp;About Me </h3>
 
