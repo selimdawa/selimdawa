@@ -20,6 +20,8 @@
 - 🎓 &nbsp; I studied programming from YouTube & [Gammal Tech](https://www.gammal.tech).
 - 💼 &nbsp; I'm looking for a job (remote, voluntary, full or part time).
 - 🌱 &nbsp; Learn more about Hilt, Dagger2, Rome, Firebase & Jetpack.
+
+ ---
  
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api/top-langs?username=selimdawa&layout=compact&theme=github_dark&langs_count=8">
