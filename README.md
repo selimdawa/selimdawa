@@ -16,9 +16,9 @@
 
 ### 👨‍💻&nbsp;About Me
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; i'm Selim Dawa from Syria <img src="https://camo.githubusercontent.com/d4555dd65f571d1a6e6ef3ab06289f7118987e40774359da98bf7a9dad80ce8c/68747470733a2f2f7777772e69636f6e7061636b732e6e65742f69636f6e732f667265652d69636f6e732d372f667265652d6e65772d73797269612d666c61672d63697263756c61722d726f756e642d69636f6e2d32343636372e706e67" width="18"/> I've <img src="https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-golden-colour-number-27-png-image_12541049.png" width="18"/>.
 - 🎓 &nbsp; I studied programming from YouTube & [Gammal Tech](https://www.gammal.tech).
-- 💼 &nbsp; I'm looking for a job (remote, voluntary, full or part time).
+- 💼 &nbsp; I'm looking for a job (remote, full or part time).
 - 🌱 &nbsp; Learn more about Hilt, Dagger2, Rome, Firebase & Jetpack.
 
  ---
@@ -54,7 +54,7 @@
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" alt="CSS">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
-      <img src="https://img.shields.io/badge/Node.js-3776AB?style=flat&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
+      <img src="https://img.shields.io/badge/Node.js-3776AB?style=flat&logo=node.js&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
     </td>
   </tr>
