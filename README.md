@@ -7,49 +7,76 @@
 [![Google Play Badge](https://img.shields.io/badge/-Google%20Play-1d8c32?style=flat-square&labelColor=1d8c32&logo=Google+Play&logoColor=white&linkhttps://play.google.com/store/apps/developer?id=SAO+Apps)](https://play.google.com/store/apps/developer?id=SAO+Apps)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-8a2be2?style=flat-square&labelColor=8a2be2&logo=Webflow&colorColor=white&link=https://selimdawa.github.io/portfolio)](https://selimdawa.github.io/portfolio)
 [![Resume Badge](https://img.shields.io/badge/-Resume-d16500?style=flat-square&labelColor=d16500&logo=Adobe+Acrobat+Reader&logoColor=white&link=https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)](https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)
+[![committers.top badge](https://user-badge.committers.top/syria/selimdawa.svg)](https://user-badge.committers.top/syria/selimdawa)
+  
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=selimdawa&theme=github_dark&hide=contribs,prs">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=selimdawa&show_icons=true">
+</picture>
 
-<h3> 👨‍💻&nbsp;About Me </h3>
+### 👨‍💻&nbsp;About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I studied programming from YouTube & [Gammal Tech](https://www.gammal.tech).
 - 💼 &nbsp; I'm looking for a job (remote, voluntary, full or part time).
 - 🌱 &nbsp; Learn more about Hilt, Dagger2, Rome, Firebase & Jetpack.
+ 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api/top-langs?username=selimdawa&layout=compact&theme=github_dark&langs_count=6">
+    <img align="right" width="35%" src="https://github-readme-stats-ouuan.vercel.app/api?username=selimdawa&show_icons=true">
+</picture>
 
-<h3> 🛠&nbsp;Tech Stack</h3>
+### 🛠️ Tech Stack
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-- 📱 &nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  
-<h3> 📊&nbsp;Statistics</h3>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 10px;">
+  <tr>
+    <td valign="middle" style="padding-right: 20px;">
+      <font size="5">🛢️ Mobile</font>
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">&nbsp;
+      <img src="https://img.shields.io/badge/Java-b07219?style=flat&logo=Java&logoColor=white" alt="Java">&nbsp;
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
+      <img src="https://img.shields.io/badge/Firebase-FF9100?style=flat&logo=firebase&logoColor=white" alt="Firebase">&nbsp;
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selimdawa&theme=github_dark&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selimdawa&layout=compact&theme=github_dark&langs_count=4&card_width=350)
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 10px;">
+  <tr>
+    <td valign="middle" style="padding-right: 20px;">
+      <font size="5">🌐 Web</font>
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" alt="HTML5">&nbsp;
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" alt="CSS">&nbsp;
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;
+      <img src="https://img.shields.io/badge/Node.js-3776AB?style=flat&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+    </td>
+  </tr>
+</table>
 
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="margin-bottom: 10px;">
+  <tr>
+    <td valign="middle" style="padding-right: 20px;">
+      <font size="5">⚙️ Tools</font>
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">&nbsp;
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">&nbsp;
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white"" alt="VS Code">&nbsp;
+      <img src="https://img.shields.io/badge/Android%20Studio-1A8E52?style=flat&logo=android-studio&logoColor=white" alt="Android Studio">&nbsp;
+      <img src="https://img.shields.io/badge/Illustrator-330000?style=flat&logo=adobe-illustrator&logoColor=white" alt="Illustrator">&nbsp;
+      <img src="https://img.shields.io/badge/Photoshop-001E36?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
+    </td>
+  </tr>
+</table>
 
-<h3> ⚙️&nbsp;I'm currently working on</h3>
+---
+
+### ⚙️&nbsp;I'm currently working on</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=SimpleAdvancedAppsKotlin&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=BeautyTouchKotlin&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
