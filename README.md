@@ -91,7 +91,7 @@
 
 ### ⚙️&nbsp;I'm currently working on
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=SimpleAdvancedAppsKotlin&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=BeautyTouchKotlin&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=portfolio&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=LittleBooksKotlin&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=LittleBooksKotlin&theme=github_dark)](https://github.com/selimdawa/LittleBooksKotlin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=BeautyTouchKotlin&theme=github_dark)](https://github.com/selimdawa/BeautyTouchKotlin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=portfolio&theme=github_dark)](https://github.com/selimdawa/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=Private-Apps&theme=github_dark)](https://github.com/selimdawa/Private-Apps)
