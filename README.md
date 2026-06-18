@@ -45,7 +45,7 @@
 <p align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selimdawa&theme=github_dark&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selimdawa&layout=compact&theme=github_dark&langs_count=4&card_width=400&)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selimdawa&layout=compact&theme=github_dark&langs_count=4&card_width=350)
 
 </p>
 
