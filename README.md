@@ -22,7 +22,7 @@
 - 🌱 &nbsp; Learn more about Hilt, Dagger2, Rome, Firebase & Jetpack.
  
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api/top-langs?username=selimdawa&layout=compact&theme=github_dark&langs_count=6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api/top-langs?username=selimdawa&layout=compact&theme=github_dark&langs_count=8">
     <img align="right" width="35%" src="https://github-readme-stats-ouuan.vercel.app/api?username=selimdawa&show_icons=true">
 </picture>
 
