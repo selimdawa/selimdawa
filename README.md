@@ -43,28 +43,15 @@
 <h3> 📊&nbsp;Statistics</h3>
 
 <p align="center">
-<a href="https://github.com/selimdawa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=selimdawa&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/selimdawa/github-readme-stats#gh-dark-mode-only" />
-  </a>
-<a href="https://github.com/selimdawa?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimdawa&theme=buefy&layout=compact&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&langs_count=6" />
-  </a>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selimdawa&theme=github_dark&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selimdawa&layout=compact&theme=github_dark&langs_count=4&card_width=400&)
+
 </p>
 
 <h3> ⚙️&nbsp;I'm currently working on</h3>
 
-<p align="center">
-<a href="https://github.com/selimdawa/SimpleAdvancedAppsKotlin">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin?username=selimdawa&repo=SimpleAdvancedAppsKotlin&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-  </a>
-<a href="https://github.com/selimdawa/BeautyTouchKotlin">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin?username=selimdawa&repo=BeautyTouchKotlin&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
-  </a>
-
-<a href="https://github.com/selimdawa/portfolio">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin?username=selimdawa&repo=portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-  </a>
-  <a href="https://github.com/selimdawa/LittleBooksKotlin">
- <img height="120em" src="https://github-readme-stats.vercel.app/api/pin?username=selimdawa&repo=LittleBooksKotlin&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515"/>
-  </a>
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=SimpleAdvancedAppsKotlin&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=BeautyTouchKotlin&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=portfolio&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=selimdawa&repo=LittleBooksKotlin&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
