@@ -70,7 +70,6 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
       <img src="https://img.shields.io/badge/Android%20Studio-1A8E52?style=flat&logo=android-studio&logoColor=white" alt="Android Studio">
-      <img src="https://img.shields.io/badge/Illustrator-330000?style=flat&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
       <img src="https://img.shields.io/badge/Photoshop-001E36?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
     </td>
   </tr>
