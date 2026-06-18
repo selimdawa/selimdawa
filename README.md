@@ -10,7 +10,7 @@
 [![committers.top badge](https://user-badge.committers.top/syria/selimdawa.svg)](https://user-badge.committers.top/syria/selimdawa)
   
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=selimdawa&theme=github_dark&hide=contribs,prs">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=selimdawa&theme=github_dark">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=selimdawa&show_icons=true">
 </picture>
 
@@ -34,10 +34,10 @@
       <font size="5">🛢️ Mobile</font>
     </td>
     <td valign="middle" align="center">
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">&nbsp;
-      <img src="https://img.shields.io/badge/Java-b07219?style=flat&logo=Java&logoColor=white" alt="Java">&nbsp;
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
-      <img src="https://img.shields.io/badge/Firebase-FF9100?style=flat&logo=firebase&logoColor=white" alt="Firebase">&nbsp;
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+      <img src="https://img.shields.io/badge/Java-b07219?style=flat&logo=Java&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/Firebase-FF9100?style=flat&logo=firebase&logoColor=white" alt="Firebase">
     </td>
   </tr>
 </table>
@@ -48,10 +48,10 @@
       <font size="5">🌐 Web</font>
     </td>
     <td valign="middle" align="center">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" alt="HTML5">&nbsp;
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" alt="CSS">&nbsp;
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">&nbsp;
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">&nbsp;
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" alt="CSS">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
       <img src="https://img.shields.io/badge/Node.js-3776AB?style=flat&logo=node.js&logoColor=white" alt="Node.js">&nbsp;
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
     </td>
@@ -64,11 +64,11 @@
       <font size="5">⚙️ Tools</font>
     </td>
     <td valign="middle" align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">&nbsp;
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">&nbsp;
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white"" alt="VS Code">&nbsp;
-      <img src="https://img.shields.io/badge/Android%20Studio-1A8E52?style=flat&logo=android-studio&logoColor=white" alt="Android Studio">&nbsp;
-      <img src="https://img.shields.io/badge/Illustrator-330000?style=flat&logo=adobe-illustrator&logoColor=white" alt="Illustrator">&nbsp;
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code">
+      <img src="https://img.shields.io/badge/Android%20Studio-1A8E52?style=flat&logo=android-studio&logoColor=white" alt="Android Studio">
+      <img src="https://img.shields.io/badge/Illustrator-330000?style=flat&logo=adobe-illustrator&logoColor=white" alt="Illustrator">
       <img src="https://img.shields.io/badge/Photoshop-001E36?style=flat&logo=adobe-photoshop&logoColor=white" alt="Photoshop">
     </td>
   </tr>
