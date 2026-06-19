@@ -1,10 +1,10 @@
 # Hey there! I'm Selim. <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:selimdawa@gmail.com)](mailto:selimdawa@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/selim-dawa-57036b199)](https://www.linkedin.com/in/selim-dawa-57036b199)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&link=#Error)](#Error)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/selimdawa)](https://www.github.com/selimdawa)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100075460898489)](https://www.facebook.com/profile.php?id=100075460898489)
-[![Google Play Badge](https://img.shields.io/badge/-Google%20Play-1d8c32?style=flat-square&labelColor=1d8c32&logo=Google+Play&logoColor=white&linkhttps://play.google.com/store/apps/developer?id=SAO+Apps)](https://play.google.com/store/apps/developer?id=SAO+Apps)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/share/1PsqaByZZv/)](https://www.facebook.com/share/1PsqaByZZv/)
+[![Google Play Badge](https://img.shields.io/badge/-Google%20Play-1d8c32?style=flat-square&labelColor=1d8c32&logo=Google+Play&logoColor=white&link=#Error)](#Error)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-8a2be2?style=flat-square&labelColor=8a2be2&logo=Webflow&colorColor=white&link=https://selimdawa.github.io/portfolio)](https://selimdawa.github.io/portfolio)
 [![Resume Badge](https://img.shields.io/badge/-Resume-d16500?style=flat-square&labelColor=d16500&logo=Adobe+Acrobat+Reader&logoColor=white&link=https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)](https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)
 [![committers.top badge](https://user-badge.committers.top/syria/selimdawa.svg)](https://user-badge.committers.top/syria/selimdawa)
