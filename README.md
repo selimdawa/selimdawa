@@ -87,7 +87,7 @@
 #### Private Apps - Kotlin {0}
 [UI-Full-Apps](https://github.com/selimdawa/Private-Apps).
 #### Libraries - Kotlin {6}
-[Bubble Bottom](https://github.com/selimdawa/BubbleBottom) | [Auto Image Slider](https://github.com/selimdawa/AutoImageSlider) | [Material Ripple Effect](https://github.com/selimdawa/MaterialRippleEffect) | [Multi Wave](https://github.com/selimdawa/MultiWave) | [Multi Colors](https://github.com/selimdawa/MultiColors) | [Multi Bottoms](https://github.com/selimdawa/Multi-Bottoms).
+[Bubble Bottom](https://github.com/selimdawa/BubbleBottom) | [Auto Image Slider](https://github.com/selimdawa/AutoImageSlider) | [Material Ripple Effect](https://github.com/selimdawa/MaterialRippleEffect) | [Multi Wave](https://github.com/selimdawa/MultiWave) | [Multi Colors](https://github.com/selimdawa/MultiColors) | [Multi Bottoms](https://github.com/selimdawa/MultiBottoms).
 
 ---
 
