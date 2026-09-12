@@ -16,7 +16,7 @@
 
 ### 👨‍💻&nbsp;About Me
 
-- 🤔 &nbsp; i'm Selim Dawa from Syria <img src="https://camo.githubusercontent.com/d4555dd65f571d1a6e6ef3ab06289f7118987e40774359da98bf7a9dad80ce8c/68747470733a2f2f7777772e69636f6e7061636b732e6e65742f69636f6e732f667265652d69636f6e732d372f667265652d6e65772d73797269612d666c61672d63697263756c61722d726f756e642d69636f6e2d32343636372e706e67" width="18"/> I've <img src="https://png.pngtree.com/png-vector/20240528/ourmid/pngtree-golden-colour-number-27-png-image_12541049.png" width="18"/>.
+- 🤔 &nbsp; i'm Selim Dawa from Syria <img src="https://camo.githubusercontent.com/d4555dd65f571d1a6e6ef3ab06289f7118987e40774359da98bf7a9dad80ce8c/68747470733a2f2f7777772e69636f6e7061636b732e6e65742f69636f6e732f667265652d69636f6e732d372f667265652d6e65772d73797269612d666c61672d63697263756c61722d726f756e642d69636f6e2d32343636372e706e67" width="18"/> I've <img src="https://png.pngtree.com/png-clipart/20240701/original/pngtree-golden-colour-number-28-png-image_15462158.png" width="18"/>.
 - 🎓 &nbsp; I studied programming from YouTube & [Gammal Tech](https://www.gammal.tech).
 - 💼 &nbsp; I'm looking for a job (remote, full or part time).
 - 🌱 &nbsp; Learn more about Hilt, Dagger2, Rome, Firebase & Jetpack.
