@@ -19,7 +19,7 @@
 - 🤔 &nbsp; i'm Selim Dawa from Syria <img src="https://camo.githubusercontent.com/d4555dd65f571d1a6e6ef3ab06289f7118987e40774359da98bf7a9dad80ce8c/68747470733a2f2f7777772e69636f6e7061636b732e6e65742f69636f6e732f667265652d69636f6e732d372f667265652d6e65772d73797269612d666c61672d63697263756c61722d726f756e642d69636f6e2d32343636372e706e67" width="18"/> I've <img src="https://png.pngtree.com/png-clipart/20240701/original/pngtree-golden-colour-number-28-png-image_15462158.png" width="18"/>.
 - 🎓 &nbsp; I studied programming from YouTube & [Gammal Tech](https://www.gammal.tech).
 - 💼 &nbsp; I'm looking for a job (remote, full or part time).
-- 🌱 &nbsp; Learn more about Hilt, Dagger2, Rome, Firebase & Jetpack.
+- 🌱 &nbsp; Learn more about Compose, Jetpack, Library Design, Rome, Firebase & Cloudinary.
 
  ---
  
@@ -80,14 +80,21 @@
 
 ### 🗺️ {My_Applications_Roadmap} 
 
-#### Full Apps - Kotlin {9}
-[Beauty Touch](https://github.com/selimdawa/BeautyTouchKotlin) | [Little Books](https://github.com/selimdawa/LittleBooksKotlin) | [Little Music](https://github.com/selimdawa/LittleMusicKotlin) | [Little Movie](https://github.com/selimdawa/LittleMovieKotlin) | [Little Tasks](https://github.com/selimdawa/LittleTasksKotlin) | [Little Note](https://github.com/selimdawa/LittleNoteKotlin) | [Simple Multi Apps](https://github.com/selimdawa/SimpleMultiAppsKotlin) {12 Apps} | [Simple Advanced Apps](https://github.com/selimdawa/SimpleAdvancedAppsKotlin) {13 Apps} | [Simple Compose Apps](https://github.com/selimdawa/SimpleComposeApps) {25 Apps}.
-#### Little Apps - Kotlin {26}
-[Blogger](https://github.com/selimdawa/Blogger-LittleApp) | [Calculator](https://github.com/selimdawa/Calculator-LittleApp) | [Candy Crush Game](https://github.com/selimdawa/CandyCrushGame-LittleApp) | [Countries](https://github.com/selimdawa/Countries-LittleApp) | [Crypto](https://github.com/selimdawa/Crypto-LittleApp) | [Dictionary](https://github.com/selimdawa/Dictionary-LittleApp) | [Dogs](https://github.com/selimdawa/Dogs-LittleApp) | [Joke](https://github.com/selimdawa/Joke-LittleApp) | [Live TV](https://github.com/selimdawa/LiveTV-LittleApp) | [Meals](https://github.com/selimdawa/Meals-LittleApp) | [Movies](https://github.com/selimdawa/Movies-LittleApp) | [Multiple Delete](https://github.com/selimdawa/MultipleDelete-LittleApp) | [News](https://github.com/selimdawa/News-LittleApp) | [News 2](https://github.com/selimdawa/News2-LittleApp) | [Pdf Reader](https://github.com/selimdawa/PdfReader-LittleApp) | [Pokemon](https://github.com/selimdawa/Poke-LittleApp) | [Pop](https://github.com/selimdawa/Pop-LittleApp) | [Random Img Generating](https://github.com/selimdawa/RandomImgGenerating-LittleApp) | [Rick And Morty](https://github.com/selimdawa/RickAndMorty-LittleApp) | [Stock Market](https://github.com/selimdawa/StockMarket-LittleApp) | [Stop Watch](https://github.com/selimdawa/StopWatch-LittleApp) | [ToDo Note](https://github.com/selimdawa/ToDoNote-LittleApp) | [Video Player](https://github.com/selimdawa/VideoPlayer-LittleApp) | [Weather](https://github.com/selimdawa/Weather-LittleApp) | [Web](https://github.com/selimdawa/Web-LittleApp) | [Wordpress](https://github.com/selimdawa/Wordpress-LittleApp).
-#### Private Apps - Kotlin {2}
+#### Full Apps - Kotlin (XML) {8}
+[Beauty Touch](https://github.com/selimdawa/BeautyTouchKotlin) | [Little Books](https://github.com/selimdawa/LittleBooksKotlin) | [Little Music](https://github.com/selimdawa/LittleMusicKotlin) | [Little Movie](https://github.com/selimdawa/LittleMovieKotlin) | [Little Tasks](https://github.com/selimdawa/LittleTasksKotlin) | [Little Note](https://github.com/selimdawa/LittleNoteKotlin) | [Simple Multi Apps](https://github.com/selimdawa/SimpleMultiAppsKotlin) {12 Apps} | [Simple Advanced Apps](https://github.com/selimdawa/SimpleAdvancedAppsKotlin) {13 Apps}.
+#### Full Apps - Kotlin (Compose) {2}
+[Simple Compose Apps](https://github.com/selimdawa/SimpleComposeApps) {25 Apps} | [Little Note - Compose](https://github.com/selimdawa/LittleNoteCompose).
+
+#### Little Apps - Kotlin (XML) {25}
+[Blogger](https://github.com/selimdawa/Blogger-LittleApp) | [Calculator](https://github.com/selimdawa/Calculator-LittleApp) | [Candy Crush Game](https://github.com/selimdawa/CandyCrushGame-LittleApp) | [Countries](https://github.com/selimdawa/Countries-LittleApp) | [Crypto](https://github.com/selimdawa/Crypto-LittleApp) | [Dictionary](https://github.com/selimdawa/Dictionary-LittleApp) | [Dogs](https://github.com/selimdawa/Dogs-LittleApp) | [Joke](https://github.com/selimdawa/Joke-LittleApp) | [Live TV](https://github.com/selimdawa/LiveTV-LittleApp) | [Meals](https://github.com/selimdawa/Meals-LittleApp) | [Movies](https://github.com/selimdawa/Movies-LittleApp) | [Multiple Delete](https://github.com/selimdawa/MultipleDelete-LittleApp) | [News](https://github.com/selimdawa/News-LittleApp) | [News 2](https://github.com/selimdawa/News2-LittleApp) | [Pdf Reader](https://github.com/selimdawa/PdfReader-LittleApp) | [Pokemon](https://github.com/selimdawa/Poke-LittleApp) | [Pop](https://github.com/selimdawa/Pop-LittleApp) | [Random Img Generating](https://github.com/selimdawa/RandomImgGenerating-LittleApp) | [Rick And Morty](https://github.com/selimdawa/RickAndMorty-LittleApp) |  | [Stop Watch](https://github.com/selimdawa/StopWatch-LittleApp) | [ToDo Note](https://github.com/selimdawa/ToDoNote-LittleApp) | [Video Player](https://github.com/selimdawa/VideoPlayer-LittleApp) | [Weather](https://github.com/selimdawa/Weather-LittleApp) | [Web](https://github.com/selimdawa/Web-LittleApp) | [Wordpress](https://github.com/selimdawa/Wordpress-LittleApp).
+#### Little Apps - Kotlin (Compose) {1}
+[Stock Market](https://github.com/selimdawa/StockMarket-LittleApp).
+
+#### Private Apps - Kotlin (XML)  {2}
 [UI-Full-Apps](https://github.com/selimdawa/Private-Apps) | Little Player | Tech Store.
+
 #### Libraries - Kotlin {6}
-[Bubble Bottom](https://github.com/selimdawa/BubbleBottom) | [Auto Image Slider](https://github.com/selimdawa/AutoImageSlider) | [Material Ripple Effect](https://github.com/selimdawa/MaterialRippleEffect) | [Multi Wave](https://github.com/selimdawa/MultiWave) | [Multi Colors](https://github.com/selimdawa/MultiColors) | [Multi Bottoms](https://github.com/selimdawa/MultiBottoms).
+[Bubble Bottom](https://github.com/selimdawa/BubbleBottom)(XML) | [Auto Image Slider](https://github.com/selimdawa/AutoImageSlider)(XML) | [Material Ripple Effect](https://github.com/selimdawa/MaterialRippleEffect)(XML) | [Multi Wave](https://github.com/selimdawa/MultiWave)(XML) | [Multi Colors](https://github.com/selimdawa/MultiColors)(XML & Compose) | [Multi Bottoms](https://github.com/selimdawa/MultiBottoms)(XML).
 
 ---
 
