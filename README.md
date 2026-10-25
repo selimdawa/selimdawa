@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&link=#Error)](#Error)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/selimdawa)](https://www.github.com/selimdawa)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/share/1PsqaByZZv/)](https://www.facebook.com/share/1PsqaByZZv/)
-[![Google Play Badge](https://img.shields.io/badge/-Google%20Play-1d8c32?style=flat-square&labelColor=1d8c32&logo=Google+Play&logoColor=white&link=#Error)](#Error)
+[![Medium Badge](https://img.shields.io/badge/-Medium-0e0e0e?style=flat-square&labelColor=0e0e0e&logo=Medium&logoColor=white&link=#Error)](https://medium.com/@selimdawa)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-8a2be2?style=flat-square&labelColor=8a2be2&logo=Webflow&colorColor=white&link=https://selimdawa.github.io/portfolio)](https://selimdawa.github.io/portfolio)
 [![Resume Badge](https://img.shields.io/badge/-Resume-d16500?style=flat-square&labelColor=d16500&logo=Adobe+Acrobat+Reader&logoColor=white&link=https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)](https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)
 [![committers.top badge](https://user-badge.committers.top/syria/selimdawa.svg)](https://user-badge.committers.top/syria/selimdawa)
@@ -40,7 +40,8 @@
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
       <img src="https://img.shields.io/badge/Firebase-FF9100?style=flat&logo=firebase&logoColor=white" alt="Firebase">
-      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" alt="Kotlin">
+      <img src="https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" alt="Kotlin">
+      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" alt="Kotlin">
     </td>
   </tr>
 </table>
