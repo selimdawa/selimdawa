@@ -6,9 +6,10 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/share/1PsqaByZZv/)](https://www.facebook.com/share/1PsqaByZZv/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-0e0e0e?style=flat-square&labelColor=0e0e0e&logo=Medium&logoColor=white&link=#Error)](https://medium.com/@selimdawa)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-8a2be2?style=flat-square&labelColor=8a2be2&logo=Webflow&colorColor=white&link=https://selimdawa.github.io/portfolio)](https://selimdawa.github.io/portfolio)
-[![Resume Badge](https://img.shields.io/badge/-Resume-d16500?style=flat-square&labelColor=d16500&logo=Adobe+Acrobat+Reader&logoColor=white&link=https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)](https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)
+[![Resume Badge](https://img.shields.io/badge/Resume-EN-black?labelColor=069682)](https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)
+[![Resume Badge](https://img.shields.io/badge/Resume-AR-black?labelColor=069682)](https://drive.google.com/file/d/1XnUYDWpK4wDYZ0XigcJyrgFVfZmiKpV4/view)
 [![committers.top badge](https://user-badge.committers.top/syria/selimdawa.svg)](https://user-badge.committers.top/syria/selimdawa)
-  
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=selimdawa&theme=github_dark">
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=selimdawa&show_icons=true">
