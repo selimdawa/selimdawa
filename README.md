@@ -1,13 +1,12 @@
 # Hey there! I'm Selim. <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:selimdawa@gmail.com)](mailto:selimdawa@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&link=#Error)](#Error)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/selimdawa)](https://www.github.com/selimdawa)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/share/1PsqaByZZv/)](https://www.facebook.com/share/1PsqaByZZv/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-0e0e0e?style=flat-square&labelColor=0e0e0e&logo=Medium&logoColor=white&link=#Error)](https://medium.com/@selimdawa)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-8a2be2?style=flat-square&labelColor=8a2be2&logo=Webflow&colorColor=white&link=https://selimdawa.github.io/portfolio)](https://selimdawa.github.io/portfolio)
-[![Resume Badge](https://img.shields.io/badge/Resume-EN-black?labelColor=069682)](https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)
-[![Resume Badge](https://img.shields.io/badge/Resume-AR-black?labelColor=069682)](https://drive.google.com/file/d/1XnUYDWpK4wDYZ0XigcJyrgFVfZmiKpV4/view)
+[![Email Badge](https://img.shields.io/badge/Email-c14438?logo=Gmail&logoColor=white&link=mailto:selimdawa@gmail.com)](mailto:selimdawa@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&link=#Error)](#Error)
+[![Github Badge](https://img.shields.io/badge/Github-232323?logo=Github&logoColor=white&link=https://www.github.com/selimdawa)](https://www.github.com/selimdawa)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white&link=https://www.facebook.com/share/1PsqaByZZv/)](https://www.facebook.com/share/1PsqaByZZv/)
+[![Medium Badge](https://img.shields.io/badge/Medium-0e0e0e?logo=Medium&link=#Error)](https://medium.com/@selimdawa)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-8a2be2?logo=Webflow&colorColor=white&link=https://selimdawa.github.io/portfolio)](https://selimdawa.github.io/portfolio)
+[![Resume EN](https://img.shields.io/badge/Resume-EN-black?labelColor=069682)](https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)[![AR](https://img.shields.io/badge/%7C-AR-black?labelColor=000000)](https://drive.google.com/file/d/1XnUYDWpK4wDYZ0XigcJyrgFVfZmiKpV4/view)
 [![committers.top badge](https://user-badge.committers.top/syria/selimdawa.svg)](https://user-badge.committers.top/syria/selimdawa)
 
 <picture>
