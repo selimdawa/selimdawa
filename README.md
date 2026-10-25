@@ -36,12 +36,11 @@
       <font size="5">🛢️ Mobile</font>
     </td>
     <td valign="middle" align="center">
-      <img src="https://img.shields.io/badge/Java-b07219?style=flat&logo=Java&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+      <img src="https://img.shields.io/badge/Room-4479A1?style=flat&logo=mysql&logoColor=white" alt="Room">
       <img src="https://img.shields.io/badge/Firebase-FF9100?style=flat&logo=firebase&logoColor=white" alt="Firebase">
-      <img src="https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" alt="Kotlin">
-      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" alt="Kotlin">
+      <img src="https://img.shields.io/badge/Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" alt="Compose">
+      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white" alt="Cloudinary">
     </td>
   </tr>
 </table>
