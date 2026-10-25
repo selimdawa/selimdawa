@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white&link=https://www.facebook.com/share/1PsqaByZZv/)](https://www.facebook.com/share/1PsqaByZZv/)
 [![Medium Badge](https://img.shields.io/badge/Medium-0e0e0e?logo=Medium&link=#Error)](https://medium.com/@selimdawa)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-8a2be2?logo=Webflow&colorColor=white&link=https://selimdawa.github.io/portfolio)](https://selimdawa.github.io/portfolio)
-[![Resume EN](https://img.shields.io/badge/Resume-EN-black?labelColor=069682)](https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)[![AR](https://img.shields.io/badge/%7C-AR-black?labelColor=000000)](https://drive.google.com/file/d/1XnUYDWpK4wDYZ0XigcJyrgFVfZmiKpV4/view)
+[![Resume Badge](https://img.shields.io/badge/Resume-069682)](https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)
 [![committers.top badge](https://user-badge.committers.top/syria/selimdawa.svg)](https://user-badge.committers.top/syria/selimdawa)
 
 <picture>
