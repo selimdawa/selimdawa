@@ -3,7 +3,7 @@
 [![Email Badge](https://img.shields.io/badge/Email-c14438?logo=Gmail&logoColor=white&link=mailto:selimdawa@gmail.com)](mailto:selimdawa@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&link=#Error)](#Error)
 [![Github Badge](https://img.shields.io/badge/Github-232323?logo=Github&logoColor=white&link=https://www.github.com/selimdawa)](https://www.github.com/selimdawa)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white&link=https://www.facebook.com/share/1PsqaByZZv/)](https://www.facebook.com/share/1PsqaByZZv/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?logo=Facebook&logoColor=white&link=https://www.facebook.com/share/1PsqaByZZv/)](https://www.facebook.com/profile.php?id=61561287936343)
 [![Medium Badge](https://img.shields.io/badge/Medium-0e0e0e?logo=Medium&link=#Error)](https://medium.com/@selimdawa)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-8a2be2?logo=Webflow&colorColor=white&link=https://selimdawa.github.io/portfolio)](https://selimdawa.github.io/portfolio)
 [![Resume Badge](https://img.shields.io/badge/Resume-069682?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xNCAySDZjLTEuMSAwLTEuOTkuOS0xLjk5IDJMNCAyMGMwIDEuMS44OSAyIDEuOTkgMkgxOGMxLjEgMCAyLS45IDItMlY4bC02LTZ6bTIgMTZIOHYtMmg4djJ6bTAtNEg4di0yaDh2MnptLTMtNVYzLjVMMTguNSA5SDEzeiIvPjwvc3ZnPg==)](https://drive.google.com/file/d/1J3PLHK5p73mD0hjG7YDukYQ058b6rJzZ/view)
